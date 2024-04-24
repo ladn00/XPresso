@@ -1,0 +1,46 @@
+﻿<Window x:Class="XPresso.WindowBanknotes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XPresso"
+        mc:Ignorable="d"
+        Title="Банкноты" Height="500" Width="500" WindowStartupLocation="CenterScreen" MinHeight="490" MinWidth="490" Icon="imgs/XPresso.png">
+    <Grid>
+        
+        <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+
+            <Button Width="200" Click="bt10_Click" Margin="10">
+                <Image Source="imgs/Банкнота_10.png" Style="{StaticResource img_Banknote}"/>
+            </Button>
+            <Button Width="200" Click="bt50_Click" Margin="10">
+                <Image Source="imgs/Банкнота_50.png" Style="{StaticResource img_Banknote}"/>
+            </Button>
+
+            <Button Width="200" Click="bt100_Click" Margin="10">
+                <Image Source="imgs/Банкнота_100.png" Style="{StaticResource img_Banknote}"/>
+            </Button>
+
+            <Button Width="200" Click="bt200_Click" Margin="10">
+                <Image Source="imgs/Банкнота_200.png" Style="{StaticResource img_Banknote}"/>
+            </Button>
+            <Button Width="200" Click="bt500_Click" Margin="10">
+                <Image Source="imgs/Банкнота_500.png" Style="{StaticResource img_Banknote}"/>
+            </Button>
+
+            <Button Width="200" Click="bt1000_Click" Margin="10">
+                <Image Source="imgs/Банкнота_1000.png" Style="{StaticResource img_Banknote}"/>
+            </Button>
+
+            <Button Width="200" Click="bt2000_Click" Margin="10">
+                <Image Source="imgs/Банкнота_2000.png" Style="{StaticResource img_Banknote}"/>
+            </Button>
+
+            <Button Width="200" Click="bt5000_Click" Margin="10">
+                <Image Source="imgs/Банкнота_5000.png" Style="{StaticResource img_Banknote}"/>
+            </Button>
+
+        </WrapPanel>
+        
+    </Grid>
+</Window>

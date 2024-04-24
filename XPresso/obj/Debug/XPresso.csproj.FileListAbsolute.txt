@@ -1,0 +1,650 @@
+D:\Ну типа\3 курс\Курсовой\XPresso\bin\Debug\XPresso.exe.config
+D:\Ну типа\3 курс\Курсовой\XPresso\bin\Debug\XPresso.exe
+D:\Ну типа\3 курс\Курсовой\XPresso\bin\Debug\XPresso.pdb
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\XPresso.csproj.AssemblyReference.cache
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\MainWindow.g.cs
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\App.g.cs
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\XPresso_MarkupCompile.cache
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\XPresso_MarkupCompile.lref
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\App.baml
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\MainWindow.baml
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\XPresso.g.resources
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\XPresso.Properties.Resources.resources
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\XPresso.csproj.GenerateResource.cache
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\XPresso.exe
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\XPresso.pdb
+D:\Ну типа\3 курс\Курсовой\XPresso\obj\Debug\XPresso_Content.g.cs
+C:\Users\USER\Desktop\XPresso\XPresso\bin\Debug\XPresso.exe.config
+C:\Users\USER\Desktop\XPresso\XPresso\bin\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso\XPresso\bin\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\XPresso_Content.g.cs
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\App.baml
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\Pages\PageCoffee.baml
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\XPresso.g.resources
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\USER\Desktop\XPresso\XPresso\obj\Debug\Pages\PageDessert.baml
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\App.baml
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\Pages\PageCoffee.baml
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\Pages\PageDessert.baml
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\XPresso.g.resources
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 3\bin\Debug\XPresso.exe.config
+C:\Users\USER\Desktop\XPresso ver 3\bin\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 3\bin\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XPresso ver 3\obj\Debug\XPresso.exe
+F:\XPresso ver 4\bin\Debug\XPresso.exe.config
+F:\XPresso ver 4\bin\Debug\XPresso.exe
+F:\XPresso ver 4\bin\Debug\XPresso.pdb
+F:\XPresso ver 4\obj\Debug\XPresso.csproj.AssemblyReference.cache
+F:\XPresso ver 4\obj\Debug\MainWindow.g.cs
+F:\XPresso ver 4\obj\Debug\Pages\PageCoffee.g.cs
+F:\XPresso ver 4\obj\Debug\Pages\PageDessert.g.cs
+F:\XPresso ver 4\obj\Debug\App.g.cs
+F:\XPresso ver 4\obj\Debug\XPresso_MarkupCompile.cache
+F:\XPresso ver 4\obj\Debug\XPresso_MarkupCompile.lref
+F:\XPresso ver 4\obj\Debug\App.baml
+F:\XPresso ver 4\obj\Debug\MainWindow.baml
+F:\XPresso ver 4\obj\Debug\Pages\PageCoffee.baml
+F:\XPresso ver 4\obj\Debug\Pages\PageDessert.baml
+F:\XPresso ver 4\obj\Debug\XPresso.g.resources
+F:\XPresso ver 4\obj\Debug\XPresso.Properties.Resources.resources
+F:\XPresso ver 4\obj\Debug\XPresso.csproj.GenerateResource.cache
+F:\XPresso ver 4\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+F:\XPresso ver 4\obj\Debug\XPresso.exe
+F:\XPresso ver 4\obj\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 4\bin\Debug\XPresso.exe.config
+C:\Users\USER\Desktop\XPresso ver 4\bin\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 4\bin\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\App.baml
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\Pages\PageCoffee.baml
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\Pages\PageDessert.baml
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\XPresso.g.resources
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 4\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\andre\Desktop\XPresso ver 5\bin\Debug\XPresso.exe.config
+C:\Users\andre\Desktop\XPresso ver 5\bin\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso ver 5\bin\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\App.baml
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\Pages\PageCoffee.baml
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\Pages\PageDessert.baml
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\XPresso.g.resources
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso ver 5\obj\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 6\bin\Debug\XPresso.exe.config
+C:\Users\USER\Desktop\XPresso ver 6\bin\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 6\bin\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\App.baml
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\Pages\PageCoffee.baml
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\Pages\PageDessert.baml
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\XPresso.g.resources
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 6\obj\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 7\bin\Debug\XPresso.exe.config
+C:\Users\USER\Desktop\XPresso ver 7\bin\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 7\bin\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\App.baml
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\Pages\PageCoffee.baml
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\Pages\PageDessert.baml
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\XPresso.g.resources
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 7\obj\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 8\bin\Debug\XPresso.exe.config
+C:\Users\USER\Desktop\XPresso ver 8\bin\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 8\bin\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\App.baml
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\Pages\PageCoffee.baml
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\Pages\PageDessert.baml
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\XPresso.g.resources
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\XPresso ver 8\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XPresso ver 9\bin\Debug\XPresso.exe.config
+C:\Users\USER\Desktop\XPresso ver 9\bin\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 9\bin\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\App.baml
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\Pages\PageCoffee.baml
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\Pages\PageDessert.baml
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\XPresso.g.resources
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 9\obj\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso ver 9.2\bin\Debug\XPresso.exe.config
+C:\Users\andre\Desktop\XPresso ver 9.2\bin\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso ver 9.2\bin\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\App.baml
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\Pages\PageCoffee.baml
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\Pages\PageDessert.baml
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\XPresso.g.resources
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\WindowBanknotes.g.cs
+C:\Users\andre\Desktop\XPresso ver 9.2\obj\Debug\WindowBanknotes.baml
+C:\Users\USER\Desktop\XPresso ver 10\bin\Debug\XPresso.exe.config
+C:\Users\USER\Desktop\XPresso ver 10\bin\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 10\bin\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\WindowBanknotes.g.cs
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\App.baml
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\Pages\PageCoffee.baml
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\Pages\PageDessert.baml
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\WindowBanknotes.baml
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\XPresso.g.resources
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 10\obj\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 11\bin\Debug\XPresso.exe.config
+C:\Users\USER\Desktop\XPresso ver 11\bin\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 11\bin\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\WindowBanknotes.g.cs
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\App.baml
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\Pages\PageCoffee.baml
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\Pages\PageDessert.baml
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\WindowBanknotes.baml
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\XPresso.g.resources
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 11\obj\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\WindowBanknotes.g.cs
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\App.baml
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\Pages\PageCoffee.baml
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\Pages\PageDessert.baml
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\WindowBanknotes.baml
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\XPresso.g.resources
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 12\bin\Debug\XPresso.exe.config
+C:\Users\USER\Desktop\XPresso ver 12\bin\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 12\bin\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\FoodGivingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 12\obj\Debug\FoodGivingWindow.baml
+C:\Users\andre\Desktop\XPresso ver 13\bin\Debug\XPresso.exe.config
+C:\Users\andre\Desktop\XPresso ver 13\bin\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso ver 13\bin\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\FoodGivingWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\WindowBanknotes.g.cs
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\App.baml
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\FoodGivingWindow.baml
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\Pages\PageCoffee.baml
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\Pages\PageDessert.baml
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\WindowBanknotes.baml
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\XPresso.g.resources
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\Spravka.g.cs
+C:\Users\andre\Desktop\XPresso ver 13\obj\Debug\Spravka.baml
+C:\Users\USER\Desktop\XPresso ver 14\bin\Debug\XPresso.exe.config
+C:\Users\USER\Desktop\XPresso ver 14\bin\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 14\bin\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\FoodGivingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\Spravka.g.cs
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\WindowBanknotes.g.cs
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\App.baml
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\FoodGivingWindow.baml
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\Pages\PageCoffee.baml
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\Pages\PageDessert.baml
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\Spravka.baml
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\WindowBanknotes.baml
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\XPresso.g.resources
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 14\obj\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso ver 15\bin\Debug\XPresso.exe.config
+C:\Users\andre\Desktop\XPresso ver 15\bin\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso ver 15\bin\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\FoodGivingWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\Spravka.g.cs
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\WindowBanknotes.g.cs
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\App.baml
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\FoodGivingWindow.baml
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\Pages\PageCoffee.baml
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\Pages\PageDessert.baml
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\Spravka.baml
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\WindowBanknotes.baml
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\XPresso.g.resources
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso ver 15\obj\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 16\bin\Debug\XPresso.exe.config
+C:\Users\USER\Desktop\XPresso ver 16\bin\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 16\bin\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\FoodGivingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\Spravka.g.cs
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\WindowBanknotes.g.cs
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\App.baml
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\FoodGivingWindow.baml
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\Pages\PageCoffee.baml
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\Pages\PageDessert.baml
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\Spravka.baml
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\WindowBanknotes.baml
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\XPresso.g.resources
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver 16\obj\Debug\XPresso.pdb
+F:\XPresso ver 17\bin\Debug\XPresso.exe.config
+F:\XPresso ver 17\bin\Debug\XPresso.exe
+F:\XPresso ver 17\bin\Debug\XPresso.pdb
+F:\XPresso ver 17\obj\Debug\XPresso.csproj.AssemblyReference.cache
+F:\XPresso ver 17\obj\Debug\CoffeeMakingWindow.g.cs
+F:\XPresso ver 17\obj\Debug\FoodGivingWindow.g.cs
+F:\XPresso ver 17\obj\Debug\MainWindow.g.cs
+F:\XPresso ver 17\obj\Debug\Pages\PageCoffee.g.cs
+F:\XPresso ver 17\obj\Debug\Pages\PageDessert.g.cs
+F:\XPresso ver 17\obj\Debug\Spravka.g.cs
+F:\XPresso ver 17\obj\Debug\WindowBanknotes.g.cs
+F:\XPresso ver 17\obj\Debug\App.g.cs
+F:\XPresso ver 17\obj\Debug\XPresso_MarkupCompile.cache
+F:\XPresso ver 17\obj\Debug\XPresso_MarkupCompile.lref
+F:\XPresso ver 17\obj\Debug\App.baml
+F:\XPresso ver 17\obj\Debug\CoffeeMakingWindow.baml
+F:\XPresso ver 17\obj\Debug\FoodGivingWindow.baml
+F:\XPresso ver 17\obj\Debug\MainWindow.baml
+F:\XPresso ver 17\obj\Debug\Pages\PageCoffee.baml
+F:\XPresso ver 17\obj\Debug\Pages\PageDessert.baml
+F:\XPresso ver 17\obj\Debug\Spravka.baml
+F:\XPresso ver 17\obj\Debug\WindowBanknotes.baml
+F:\XPresso ver 17\obj\Debug\XPresso.g.resources
+F:\XPresso ver 17\obj\Debug\XPresso.Properties.Resources.resources
+F:\XPresso ver 17\obj\Debug\XPresso.csproj.GenerateResource.cache
+F:\XPresso ver 17\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+F:\XPresso ver 17\obj\Debug\XPresso.exe
+F:\XPresso ver 17\obj\Debug\XPresso.pdb
+G:\XPresso ver 17\bin\Debug\XPresso.exe.config
+G:\XPresso ver 17\bin\Debug\XPresso.exe
+G:\XPresso ver 17\bin\Debug\XPresso.pdb
+G:\XPresso ver 17\obj\Debug\XPresso.csproj.AssemblyReference.cache
+G:\XPresso ver 17\obj\Debug\CoffeeMakingWindow.g.cs
+G:\XPresso ver 17\obj\Debug\FoodGivingWindow.g.cs
+G:\XPresso ver 17\obj\Debug\MainWindow.g.cs
+G:\XPresso ver 17\obj\Debug\Pages\PageCoffee.g.cs
+G:\XPresso ver 17\obj\Debug\Pages\PageDessert.g.cs
+G:\XPresso ver 17\obj\Debug\Spravka.g.cs
+G:\XPresso ver 17\obj\Debug\WindowBanknotes.g.cs
+G:\XPresso ver 17\obj\Debug\App.g.cs
+G:\XPresso ver 17\obj\Debug\XPresso_MarkupCompile.cache
+G:\XPresso ver 17\obj\Debug\XPresso_MarkupCompile.lref
+G:\XPresso ver 17\obj\Debug\App.baml
+G:\XPresso ver 17\obj\Debug\CoffeeMakingWindow.baml
+G:\XPresso ver 17\obj\Debug\FoodGivingWindow.baml
+G:\XPresso ver 17\obj\Debug\MainWindow.baml
+G:\XPresso ver 17\obj\Debug\Pages\PageCoffee.baml
+G:\XPresso ver 17\obj\Debug\Pages\PageDessert.baml
+G:\XPresso ver 17\obj\Debug\Spravka.baml
+G:\XPresso ver 17\obj\Debug\WindowBanknotes.baml
+G:\XPresso ver 17\obj\Debug\XPresso.g.resources
+G:\XPresso ver 17\obj\Debug\XPresso.Properties.Resources.resources
+G:\XPresso ver 17\obj\Debug\XPresso.csproj.GenerateResource.cache
+G:\XPresso ver 17\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+G:\XPresso ver 17\obj\Debug\XPresso.exe
+G:\XPresso ver 17\obj\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso ver 17\bin\Debug\XPresso.exe.config
+C:\Users\andre\Desktop\XPresso ver 17\bin\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso ver 17\bin\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\FoodGivingWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\Spravka.g.cs
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\WindowBanknotes.g.cs
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\App.baml
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\FoodGivingWindow.baml
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\Pages\PageCoffee.baml
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\Pages\PageDessert.baml
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\Spravka.baml
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\WindowBanknotes.baml
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\XPresso.g.resources
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso ver 17\obj\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\bin\Debug\XPresso.exe.config
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\bin\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\bin\Debug\XPresso.pdb
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\FoodGivingWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\Spravka.g.cs
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\WindowBanknotes.g.cs
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\App.baml
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\FoodGivingWindow.baml
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\Pages\PageCoffee.baml
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\Pages\PageDessert.baml
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\Spravka.baml
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\WindowBanknotes.baml
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.g.resources
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.exe
+C:\Users\USER\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\bin\Debug\XPresso.exe.config
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\bin\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\bin\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\FoodGivingWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\Spravka.g.cs
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\WindowBanknotes.g.cs
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\App.baml
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\FoodGivingWindow.baml
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\Pages\PageCoffee.baml
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\Pages\PageDessert.baml
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\Spravka.baml
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\WindowBanknotes.baml
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.g.resources
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso ver супер мега ультра ласт\obj\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso\bin\Debug\XPresso.exe.config
+C:\Users\andre\Desktop\XPresso\bin\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso\bin\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\XPresso\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\andre\Desktop\XPresso\obj\Debug\FoodGivingWindow.g.cs
+C:\Users\andre\Desktop\XPresso\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\XPresso\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\andre\Desktop\XPresso\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\andre\Desktop\XPresso\obj\Debug\Spravka.g.cs
+C:\Users\andre\Desktop\XPresso\obj\Debug\WindowBanknotes.g.cs
+C:\Users\andre\Desktop\XPresso\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\XPresso\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\andre\Desktop\XPresso\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\andre\Desktop\XPresso\obj\Debug\App.baml
+C:\Users\andre\Desktop\XPresso\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\andre\Desktop\XPresso\obj\Debug\FoodGivingWindow.baml
+C:\Users\andre\Desktop\XPresso\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\XPresso\obj\Debug\Pages\PageCoffee.baml
+C:\Users\andre\Desktop\XPresso\obj\Debug\Pages\PageDessert.baml
+C:\Users\andre\Desktop\XPresso\obj\Debug\Spravka.baml
+C:\Users\andre\Desktop\XPresso\obj\Debug\WindowBanknotes.baml
+C:\Users\andre\Desktop\XPresso\obj\Debug\XPresso.g.resources
+C:\Users\andre\Desktop\XPresso\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\andre\Desktop\XPresso\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\XPresso\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\XPresso\obj\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso\obj\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso — копия (2)\bin\Debug\XPresso.exe.config
+C:\Users\andre\Desktop\XPresso — копия (2)\bin\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso — копия (2)\bin\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\FoodGivingWindow.g.cs
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\SdachaGiving.g.cs
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\Spravka.g.cs
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\WindowBanknotes.g.cs
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\App.baml
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\FoodGivingWindow.baml
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\Pages\PageCoffee.baml
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\Pages\PageDessert.baml
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\Spravka.baml
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\WindowBanknotes.baml
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\SdachaGiving.baml
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\XPresso.g.resources
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\XPresso.exe
+C:\Users\andre\Desktop\XPresso — копия (2)\obj\Debug\XPresso.pdb
+C:\Users\andre\Desktop\XPresso\obj\Debug\SdachaGiving.g.cs
+C:\Users\andre\Desktop\XPresso\obj\Debug\SdachaGiving.baml
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\bin\Debug\XPresso.exe.config
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\bin\Debug\XPresso.exe
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\bin\Debug\XPresso.pdb
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\XPresso.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\CoffeeMakingWindow.g.cs
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\FoodGivingWindow.g.cs
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\Pages\PageCoffee.g.cs
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\Pages\PageDessert.g.cs
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\SdachaGiving.g.cs
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\Spravka.g.cs
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\WindowBanknotes.g.cs
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\XPresso_MarkupCompile.cache
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\XPresso_MarkupCompile.lref
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\App.baml
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\CoffeeMakingWindow.baml
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\FoodGivingWindow.baml
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\Pages\PageCoffee.baml
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\Pages\PageDessert.baml
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\SdachaGiving.baml
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\Spravka.baml
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\WindowBanknotes.baml
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\XPresso.g.resources
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\XPresso.Properties.Resources.resources
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\XPresso.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\XPresso.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\XPresso.exe
+C:\Users\andre\Desktop\Зуев ПР-330 КП Программа-имитатор кофейного автомата\XPresso\obj\Debug\XPresso.pdb

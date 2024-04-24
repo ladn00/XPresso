@@ -1,0 +1,107 @@
+﻿<Window x:Class="XPresso.CoffeeMakingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XPresso"
+        mc:Ignorable="d"
+        Title="Приготовление кофе" Height="450" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="imgs/XPresso.png">
+    <Window.Resources>
+        <Storyboard x:Key="anim_Cofee">
+            <ThicknessAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Margin)" Storyboard.TargetName="img1">
+                <EasingThicknessKeyFrame KeyTime="0:0:0.15" Value="302,0,0,0"/>
+                <EasingThicknessKeyFrame KeyTime="0:0:0.26" Value="302,-20,0,0"/>
+                <EasingThicknessKeyFrame KeyTime="0:0:0.32" Value="302,0,0,0"/>
+            </ThicknessAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="Coffee_Jet">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="4.8"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.063" Value="-7.2"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="Coffee_Jet">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="31.894"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.063" Value="119.467"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="Coffee_Jet">
+                <EasingDoubleKeyFrame KeyTime="0:0:1.063" Value="50"/>
+
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="Coffee_Jet">
+                <EasingDoubleKeyFrame KeyTime="0:0:1.273" Value="1"/>
+
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="Sugar_Falling" Name="Sugar_Falling">
+            <ThicknessAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Margin)" Storyboard.TargetName="Coffee_Sugar">
+                <EasingThicknessKeyFrame KeyTime="0:0:0.283" Value="30, -380, -30 , 0"/>
+                <EasingThicknessKeyFrame KeyTime="0:0:0.483" Value="90,-190,-30,0"/>
+            </ThicknessAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="Coffee_Sugar">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.283" Value="30"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.483" Value="60"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ThicknessAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Margin)" Storyboard.TargetName="Coffee_Sugar1">
+                <EasingThicknessKeyFrame KeyTime="0:0:0.4" Value="9.68253968253968,-500,-30,0"/>
+                <EasingThicknessKeyFrame KeyTime="0:0:0.584" Value="30,-380,-30,0"/>
+                <EasingThicknessKeyFrame KeyTime="0:0:0.8" Value="60,-190,-30,0"/>
+            </ThicknessAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="Coffee_Sugar1">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.584" Value="30"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="60"/>
+            </DoubleAnimationUsingKeyFrames>
+            <PointAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransformOrigin)" Storyboard.TargetName="Coffee_Sugar1">
+                <EasingPointKeyFrame KeyTime="0:0:0.584" Value="0,0"/>
+                <EasingPointKeyFrame KeyTime="0:0:0.8" Value="0,0"/>
+            </PointAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource anim_Cofee}"/>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid Loaded="Form_Loaded">
+        <Image Source="imgs/сетка.png" Width="800" Stretch="Fill" Height="170" Margin="0,190,0,0"/>
+        <Image Source="imgs/сахар.png" Width="70" Margin="0, -220, -30 , 441" x:Name="Coffee_Sugar" OpacityMask="Black">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image Source="imgs/сахар.png" Width="70" Margin="0, -220, -30 , 441" x:Name="Coffee_Sugar1" OpacityMask="Black">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image HorizontalAlignment="Left" Height="319" Margin="302,-308,0,0" VerticalAlignment="Top" Width="209" Source="imgs/стакан.png" x:Name="img1" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image Source="imgs/jet1.png" Height="200" Width="50" Margin="384.6,-221,359,441.4" x:Name="Coffee_Jet" RenderTransformOrigin="0.5,0.5" OpacityMask="{x:Null}">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+
+        <Label x:Name="lbStatus" Content="ПРИГОТОВЛЕНИЕ" HorizontalAlignment="Left" Margin="20" FontSize="20" FontFamily="Nirmala UI" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

@@ -1,0 +1,27 @@
+﻿<Window x:Class="XPresso.FoodGivingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XPresso"
+        mc:Ignorable="d"
+        Title="Выдача десертов" Height="550" Width="800"  WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="Window_Loaded" Icon="imgs/XPresso.png">
+    <Window.Resources>
+        <Storyboard x:Key="DessertFalling">
+            <ThicknessAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Margin)" Storyboard.TargetName="imgDessert">
+                <EasingThicknessKeyFrame KeyTime="0:0:0.5" Value="0,-400,0,0"/>
+                <EasingThicknessKeyFrame KeyTime="0:0:1" Value="0,0,0,0"/>
+            </ThicknessAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="ImageGoBack">
+            <ThicknessAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Margin)" Storyboard.TargetName="imgDessert">
+                <EasingThicknessKeyFrame KeyTime="0:0:0.1" Value="0,-749,0,0"/>
+            </ThicknessAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Grid>
+        <Image x:Name="imgDessert" Width="165" Height="200" Margin="0, -750 , 0, 0" Source="imgs/Чизкейк.png"/>
+        <Image Source="imgs/сетка.png" Width="800" Stretch="Fill" Height="170" Margin="0,330,0,0"/>
+        <Image Source="imgs/крафтовый пакет.png" Height="250" Margin="0, 50, 0, 0"/>
+    </Grid>
+</Window>
